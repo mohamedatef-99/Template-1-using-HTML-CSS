@@ -1,2 +1,2 @@
-# Front-End-Projects
-Front End Templates (HTML &amp; CSS &amp; JavaScript)
+# Template 1 using HTML & CSS
+
